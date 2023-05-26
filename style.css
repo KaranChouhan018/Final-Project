@@ -413,8 +413,7 @@ footer #f1{
         min-height: 264px;
     }
     .navbar ul li{
-        display: flex ;
-        margin-top: -23%;
+        display: none ;
     }
     .b3{
         margin-top: 10%;
