@@ -394,6 +394,7 @@ footer #f1{
     }
     .div4{
         text-align: center;
+        padding-top: 70px;
     }
     .div4 h1{
         font-size: 2rem;
@@ -402,14 +403,14 @@ footer #f1{
         height: 58vh;
     }
     .faq{
-        padding: 10px 2rem;
+        padding: 40px 2rem;
     }
     .faq h1{
         font-size: 2rem;
         margin-top: 22%;
     }
     .accordance{
-        margin: 35pxx auto;
+        margin: 35px auto;
     }
     .accordance input[type="radio"]:checked + label + .context {
         min-height: 264px;
